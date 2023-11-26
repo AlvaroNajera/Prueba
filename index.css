@@ -1,0 +1,116 @@
+
+body, h1, p, ul, li, address{
+    background-color: ;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    background-color: ;
+    color: black;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    text-align: center;
+    
+    
+}
+
+
+
+
+header {
+    background: url(https://static.vecteezy.com/system/resources/previews/000/109/464/non_2x/hospital-instruments-icon-vectors.jpg) center /cover no-repeat; 
+    color: #fff;
+    padding: 2em;
+    text-align: center;
+    
+
+}
+
+nav {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+section {
+    padding: 40px;
+    background: #fff; 
+    margin: 20px 0;
+    border-radius: 8px;
+    text-align: left;
+}
+footer {
+    background: url(https://static.vecteezy.com/system/resources/previews/000/109/464/non_2x/hospital-instruments-icon-vectors.jpg) center/cover no-repeat;
+    color: white;
+    padding: 1em;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 30%;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    margin: 0 10px;
+}
+h2 {
+    color: #4CAF50;
+}
+address {
+    font-style: normal;
+}
+
+body {
+    background-color: #f4f4f4;
+}
+footer {
+    background-color: beige;
+    color: black; 
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+    
+    .container {
+        max-width: 600px;
+        margin: 50px auto;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        text-align: left;
+    }
+    
+    form {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    label {
+        margin-top: 10px;
+        font-weight: bold;
+    }
+    
+    input, textarea {
+        padding: 8px;
+        margin: 8px 0;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+    
+    input[type="submit"] {
+        background-color: #4caf50;
+        color: #fff;
+        cursor: pointer;
+    }
+    
+    input[type="submit"]:hover {
+        background-color: #45a049;
+    }
+    

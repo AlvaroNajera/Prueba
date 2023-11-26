@@ -1,0 +1,70 @@
+body { background-image: url(https://images.pexels.com/photos/7722674/pexels-photo-7722674.jpeg?auto=compress&cs=tinysrgb&w=600);
+    font-family: Arial, sans-serif;
+    background-size: 80%;
+    font-size: 20px
+}
+
+h1{
+
+
+    text-align: center;
+    background-color: beige;
+    color: black;
+    padding: 1em;
+    font-size: 40px; 
+}
+    
+
+
+
+h1{
+    text-align: center;
+}
+
+
+
+footer {
+    background-color: ;
+    color: black;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+input, textarea {
+    padding: 8px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="submit"] {
+    background-color: blue;
+    color: #fff;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: blue;
+}
